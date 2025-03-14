@@ -5,6 +5,7 @@ const App = () => {
     <>
     <button>Samaf</button>
     <div>InvoSync</div>
+    <button>Brother from another mother.</button>
     </>
   )
 }
